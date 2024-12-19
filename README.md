@@ -13,10 +13,7 @@ This is a simple **Color Picker App** built using **React.js**. It allows users 
 
 ---
 
-## 🖥️ Demo
 
-![Color Picker Demo](https://via.placeholder.com/300x200.png?text=Demo+Screenshot)  
-*(Replace this placeholder with a screenshot of your app.)*
 
 ---
 
