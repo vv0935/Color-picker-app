@@ -100,7 +100,6 @@ This project is licensed under the MIT License.
 
 ## 📷 Screenshot
 
-Include a screenshot of the working app here.
 ![image](https://github.com/user-attachments/assets/1bffa524-0b01-466f-b909-d9e52937312f)
 
 ---
