@@ -1,0 +1,32 @@
+
+.color-picker-app{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+h1{
+    padding: 40px;
+}
+.color-picked{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    border: 5px solid hsla(0, 0%, 0%, 0.338);
+    border-radius: 1rem;
+    margin-bottom: 20px;
+}
+.pick{
+    font-size: 1.5rem;
+    margin: 10px;
+}
+.in{
+    transition: 0.25;
+    height: 40px;
+    border-radius: 0.5rem;
+}
