@@ -11,9 +11,6 @@ This is a simple **Color Picker App** built using **React.js**. It allows users 
 - **Dynamic background**: The chosen color is reflected as the background of a preview box.
 - **User-friendly design**: A clean and responsive layout designed with CSS.
 
----
-
-
 
 ---
 
@@ -113,9 +110,3 @@ Include a screenshot of the working app here.
 - This project was inspired by the simplicity and versatility of React's state management.
 
 ---
-
-### 👨‍💻 Author
-
-**Your Name**  
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your LinkedIn Profile](#)
